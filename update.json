@@ -1,5 +1,5 @@
 {
   "version": 2,
   "downloadAndroidUrl": "",
-  "downloadIosUrl": "https://firebasestorage.googleapis.com/v0/b/capichi-new-order.appspot.com/o/FCMImages%2FOTA%2Fmain.jsbundle.zip?alt=media&token=f79d69cb-e79d-4e38-8406-8c5124303707"
+  "downloadIosUrl": "https://raw.githubusercontent.com/thanhlv263/capichi_ota/refs/heads/main/main.jsbundle.zip"
 }
